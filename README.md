@@ -6,5 +6,5 @@ SmartHomeApp is a university capstone project aimed at providing an intuitive an
 **Note: This project is currently under development.**
 
 ## Demo
-![1](https://github.com/user-attachments/assets/01c82bed-4d7b-4f40-b16e-ba1866664099)
-![2](https://github.com/user-attachments/assets/2ad22e64-351d-45ce-9c87-ccde22ff03de)
+![image](https://github.com/user-attachments/assets/ca1bd722-2acc-4534-92b0-677113abddb0)
+![image](https://github.com/user-attachments/assets/aed39294-5cd3-422b-be4c-f29f492a1047)
